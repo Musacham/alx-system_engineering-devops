@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-
-
+#This script displays list of current Pro unit
+#Must show all processes
+# Show process hierachy
 
 ps -a -x -u -f
+
